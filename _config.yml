@@ -46,8 +46,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -96,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xutingl"
+  github           : "xutingl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xutingliu/"
   orcid            : "https://orcid.org/0000-0001-8017-6652"
   pinterest        :
   soundcloud       :
