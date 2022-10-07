@@ -4,7 +4,7 @@ title: "Research Experience"
 permalink: /research_experience/
 author_profile: true
 ---
-
+<meta name="format-detection" content="telephone=no">
 ## Undergraduate Researcher | Sky Computing Lab, UC Berkeley
 _08/2022 - Present_
 

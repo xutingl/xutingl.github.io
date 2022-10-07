@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+<meta name="format-detection" content="telephone=no">
 ## Academic Intern | CS 70 Discrete Mathematics and Probability Theory
 _08/2021 - 12/2021_
 
