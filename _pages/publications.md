@@ -4,6 +4,7 @@ title: "Publications & Presentations"
 permalink: /publications/
 author_profile: true
 ---
+<meta name="format-detection" content="telephone=no">
 
 # Publications
 
