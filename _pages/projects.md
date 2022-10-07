@@ -16,7 +16,7 @@ A website that allow students to rate a course’s real workload and time commit
 - Won the [Best Domain Prize](https://devpost.com/software/calrate) in Cal Hacks 8.0.
 
 ## [Emooc](https://devpost.com/software/emooc)
-_10/2019 _
+_10/2019_
 
 A Cal Hacks 6.0 project that help students and instructors identify difficult parts in online lectures by interpreting facial expressions.
 
@@ -27,6 +27,6 @@ _08/2021_
 - Demonstrated cloud fluency and foundational AWS knowledge.
 
 ## [Amateur Radio License - Technician Class](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4239664)
-_01/2020/
+_01/2020_
 
 - Qualified to operate amuter radios (ham radios).
