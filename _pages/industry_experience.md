@@ -9,7 +9,7 @@ author_profile: true
 ## SWE Intern | AWS Science
 _08/2022 - 10/2022_
 
-ML Infra Engineer
+ML Infra Engineer !!!
 
 - Worked with Applied Scientists to implement a template attention cell with a fused softmax that is used in internal GPT2 and T5 models.
 
