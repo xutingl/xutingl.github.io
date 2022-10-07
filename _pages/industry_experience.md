@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Industry Experience"
-permalink: /research_experience/
+permalink: /industry_experience/
 author_profile: true
 ---
 

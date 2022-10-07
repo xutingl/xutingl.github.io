@@ -179,10 +179,13 @@ collections:
   industry_experience:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -228,7 +231,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -237,7 +240,14 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: publications
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: talk
       author_profile: true
