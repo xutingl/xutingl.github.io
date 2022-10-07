@@ -4,6 +4,7 @@ title: "Industry Experience"
 permalink: /industry_experience/
 author_profile: true
 ---
+<meta name="format-detection" content="telephone=no">
 
 ## SWE Intern | AWS Science
 _08/2022 - 10/2022_
