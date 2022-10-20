@@ -9,4 +9,4 @@ redirect_from:
 ---
 I'm a fourth year undergraduate student in UC Berkeley double majoring in Computer Science and Operations Research, advised by [Rakesh Verma](http://cs.uh.edu/~rmverma/) and [Joseph Gonzalez](http://people.eecs.berkeley.edu/~jegonzal/).
 
-I'm interested in areas around NLP, computational social science, and distributed systems. I'm seeking a PhD student position in Fall 2023. Here is my [CV](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2pe0HEETm/view?usp=sharing).
+I'm interested in areas around distributed systems and computational social science. I'm seeking a PhD student position in Fall 2023. Here is my [CV](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2pe0HEETm/view?usp=sharing).
