@@ -12,6 +12,8 @@ Research focus: Distributed systems and network; Mentor: [Dr. Joseph E. Gonzalez
 
 - Implemented and optimized the data verification process of [Skyplane](https://skyplane.org/), the SOTA inter-and intra-cloud bulk data transfer software.
 
+- Implemented and optimized the multi-instance, multi-thread HTTP download function on Skyplane. Achieved a 30X speedup compared to existing recipes. This result was presented in a talk hosted by NASA.
+
 - Managed Globus Endpoints to conduct large data transfer experiments to benchmark Skyplane against Globus.
 
 ## Undergraduate Researcher | ReDAS Lab, University of Houston

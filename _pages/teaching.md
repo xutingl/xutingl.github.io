@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Service"
 permalink: /teaching/
 author_profile: true
 ---
@@ -20,3 +20,8 @@ _01/2021 - 06/2021_
 - A project-heavy data structure class taught in Java.
 
 - Helped students debug their code during in-person labs.
+
+## Student Volunteer | EMNLP 2021
+_11/2021_
+
+- Facilitated poster sessions.
