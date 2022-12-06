@@ -19,7 +19,7 @@ Research focus: Distributed systems and network; Mentor: [Dr. Joseph E. Gonzalez
 ## Undergraduate Researcher | ReDAS Lab, University of Houston
 _06/2021 - Present_
 
-Research focus: Deception Detection, NLP; Mentor: [Dr. Rekash Verma](http://cs.uh.edu/~rmverma/)
+Research focus: Deception Detection, NLP; Mentor: [Dr. Rakesh Verma](http://cs.uh.edu/~rmverma/)
 
 - Implemented and experimented with various feature engineering algorithms, ML and DL models in NLP.
 
