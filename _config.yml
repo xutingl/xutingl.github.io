@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuting Liu"
 title_separator          : "-"
 name                     : &name "Xuting Liu"
-description              : &description "Undergrad at UC Berkeley"
+description              : &description "CS PhD at UPenn"
 url                      : https://xutingl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xutingl/xutingl.github.io"
@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Xuting"
   avatar           : "avatar_sm.jpeg"
-  bio              : "Distributed Systems and ML Systems"
-  location         : "Berkeley, CA"
+  bio              : "Distributed Systems, Serverless Computing"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QdQQSB4AAAAJ"
-  email            : "xutingl at berkeley dot edu"
+  email            : "xutingl at seas dot upenn dot edu"
   researchgate     :  
   uri              :
   bitbucket        :
