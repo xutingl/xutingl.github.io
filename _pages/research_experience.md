@@ -5,8 +5,16 @@ permalink: /research_experience/
 author_profile: true
 ---
 <meta name="format-detection" content="telephone=no">
+
+## Research Intern(Part Time) | Microsoft Research, Redmond
+_12/2022 - Present_
+
+Research focus: GPU collective communication; Mentors: [Behnaz Arzani](https://www.microsoft.com/en-us/research/people/bearzani/) and [Siva Kesava Reddy Kakarla](https://www.sivak.dev/)
+
+- Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem. **Xuting Liu**, Behnaz Arzani, Siva Kesava Reddy Kakarla, Liangyu Zhao, Vincent Liu, Miguel Castro, Srikanth Kandula, Luke Marshall. SIGCOMM 24'.
+
 ## Undergraduate Researcher | Sky Computing Lab, UC Berkeley
-_08/2022 - Present_
+_08/2022 - 06/2023_
 
 Research focus: Distributed systems and network; Mentor: [Dr. Joseph E. Gonzalez](http://people.eecs.berkeley.edu/~jegonzal/)
 
