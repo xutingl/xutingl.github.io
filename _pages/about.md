@@ -16,7 +16,7 @@ Check out my CV [here](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2
 ## Recent Publication
 *Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem.*
 **Xuting Liu**, Behnaz Arzani, Siva Kesava Reddy Kakarla, Liangyu Zhao, Vincent Liu, Miguel Castro, Srikanth Kandula, Luke Marshall.
-<span style="color:darkgray">SIGCOMM 24.</span>
+<span style="color:#36454F">SIGCOMM 24.</span>
 
 [[Link]](https://doi.org/10.1145/3651890.3672249)  [[Code]](https://github.com/microsoft/TE-CCL)
 
