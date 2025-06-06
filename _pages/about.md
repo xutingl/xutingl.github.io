@@ -14,6 +14,12 @@ Before joining UPenn, I got my bachelor's degree in Computer Science and Operati
 Check out my CV [here](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2pe0HEETm/view?usp=sharing)!
 
 ## Recent Publication
+*𝝀-trim: Optimizing Function Initialization in Serverless Applications With Cost-driven Debloating.*
+**Xuting Liu**\*, Spyros Pavlatos\*, Yuhao Liu, Vincent Liu (\* Equal contribution).
+<span style="color:#36454F">ASPLOS 25.</span>  (To be presented in ASPLOS 26)
+
+[[Link]](https://doi.org/10.1145/3676642.3736129)  [[Code]](https://github.com/xutingl/lambda-trim-artifact)
+
 *Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem.*
 **Xuting Liu**, Behnaz Arzani, Siva Kesava Reddy Kakarla, Liangyu Zhao, Vincent Liu, Miguel Castro, Srikanth Kandula, Luke Marshall.
 <span style="color:#36454F">SIGCOMM 24.</span>
@@ -22,14 +28,14 @@ Check out my CV [here](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2
 
 ## Recent Work Experience
 ### Microsoft Research Asia, Beijing
-_07/2024 - Present_
+_07/2024 - 10/2024_
 
 Distributed ML Systems
 
 Mentor: [Jilong Xue](https://www.microsoft.com/en-us/research/people/jxue/)
 
 ### Microsoft Research, Redmond
-_12/2023 - Present_
+_12/2023 - 12/2024_
 
 GPU collective communication
 
