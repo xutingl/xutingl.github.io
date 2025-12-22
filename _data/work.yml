@@ -2,6 +2,7 @@ main:
   # Always add a unique gtag_item to enable google analytics tracking!!
 
   - title: Google
+    title_link: https://techsysinfra.google/research/
     group: Systems Research Group
     date: 11/2025 - Present
     description: TPU collective communication with ICI and Pallas.
@@ -12,9 +13,11 @@ main:
     description: Prefill-Decode disaggregated LLM inference.
   
   - title: Microsoft Research Asia, Beijing
+    title_link: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
     date: 07/2024 - 10/2024
     description: Topologiy optimization for distributed ML.
   
   - title: Microsoft Research, Redmond
+    title_link: https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/
     date: 12/2023 - 12/2024
     description: GPU collective communication.
