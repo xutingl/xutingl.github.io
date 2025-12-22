@@ -1,0 +1,5 @@
+main:
+  # Always add a unique gtag_item to enable google analytics tracking!!
+
+  - title: "TECCL: Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem"
+    venue: ByteDance, September 2024. Network and Mobile Systems (NMS) group, MIT CSAIL, March 2025.

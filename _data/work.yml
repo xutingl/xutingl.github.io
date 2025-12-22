@@ -1,0 +1,20 @@
+main:
+  # Always add a unique gtag_item to enable google analytics tracking!!
+
+  - title: Google
+    group: Systems Research Group
+    date: 11/2025 - Present
+    description: TPU collective communication with ICI and Pallas.
+  
+  - title: Amazon
+    group: Deep Science for Systems and Services
+    date: 08/2025 - 10/2025
+    description: Prefill-Decode disaggregated LLM inference.
+  
+  - title: Microsoft Research Asia, Beijing
+    date: 07/2024 - 10/2024
+    description: Topologiy optimization for distributed ML.
+  
+  - title: Microsoft Research, Redmond
+    date: 12/2023 - 12/2024
+    description: GPU collective communication.

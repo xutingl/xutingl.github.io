@@ -1,0 +1,8 @@
+main:
+  # Always add a unique gtag_item to enable google analytics tracking!!
+
+  - title: "Dynamic Rebatching for Efficient Early-Exit Inference with DREX"
+    title_link: https://arxiv.org/abs/2512.15705
+    authors: <strong>Xuting Liu</strong>, Daniel Alexander, Siva Kesava Reddy Kakarla, Behnaz Arzani, Vincent Liu
+    arxiv: https://arxiv.org/abs/2402.06787
+    gtag_item: DREX

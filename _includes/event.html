@@ -1,0 +1,20 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var allLinks = document.querySelectorAll('a');
+        allLinks.forEach(function(link) {
+            link.addEventListener('click', function() {
+                var linkSection = link.getAttribute('gtag-section');
+                var linkItem = link.getAttribute('gtag-item');
+                var linkUrl = link.getAttribute('href');
+                var linkText = link.innerText.trim();
+                var parameters = {
+                    'link_section': linkSection,
+                    'link_item': linkItem,
+                    'link_url': linkUrl,
+                    'link_text': linkText
+                }
+                gtag('event', 'click', parameters);
+            });
+        });
+    });
+</script>
