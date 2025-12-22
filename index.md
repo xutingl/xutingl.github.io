@@ -12,7 +12,7 @@ Check out my CV [here](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2
 
 ## Research Interests
 
-Machine learning systems: Systems for Looped / Early-Exit / Speculative Decoding Transformers;
+Machine learning systems for: Early-Exit / Speculative Decoding / Looped Transformers;
 
 Distributed systems: PD disaggrgation, collective communication.
 
