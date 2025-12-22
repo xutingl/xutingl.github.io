@@ -7,7 +7,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: -5px">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;padding-bottom: -10px">
       <div class="title"><a href="{{ link.video }}" gtag-section="work" gtag-item="{{ link.gtag_item }}">{{ link.title }}</a></div>
       <div class="author">{{ link.group }}</div>
       <div class="periodical"><em>{{ link.date }}</em></div>
