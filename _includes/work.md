@@ -12,7 +12,7 @@
       <div class="author">{{ link.group }}</div>
       <div class="periodical"><em>{{ link.date }}</em></div>
       <div class="periodical">{{ link.description }}</div>
-    <div class="links">
+    <!-- <div class="links">
       {% if link.video %} 
       <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="work" gtag-item="{{ link.gtag_item }}">Video</a>
       {% endif %}
@@ -25,7 +25,7 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
-    </div>
+    </div> -->
   </div>
 </div>
 </li>

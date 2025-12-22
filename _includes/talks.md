@@ -11,7 +11,7 @@
       <div class="title"><a href="{{ link.video }}" gtag-section="talks" gtag-item="{{ link.gtag_item }}">{{ link.title }}</a></div>
       <div class="author">{{ link.venue }}</div>
       <div class="periodical"><em>{{ link.date }}</em></div>
-    <div class="links">
+    <!-- <div class="links">
       {% if link.video %} 
       <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;" gtag-section="talks" gtag-item="{{ link.gtag_item }}">Video</a>
       {% endif %}
@@ -24,7 +24,7 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
-    </div>
+    </div> -->
   </div>
 </div>
 </li>
