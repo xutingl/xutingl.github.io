@@ -10,6 +10,8 @@ Before joining UPenn, I got my bachelor's degree at UC Berkeley with a double ma
 
 Check out my CV [here](https://drive.google.com/file/d/1jSAHMol5t-h_BSJtyR8Xh-U2pe0HEETm/view?usp=sharing)!
 
+<span style="color: orange;">Always open to research collaboration, mentoring, and exciting discussions! Feel free to reach out via email.</span>
+
 ## Research Interests
 
 Machine learning systems for: Early-Exit / Speculative Decoding / Looped Transformers;
