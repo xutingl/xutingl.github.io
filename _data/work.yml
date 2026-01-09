@@ -8,6 +8,7 @@ main:
     description: TPU collective communication with ICI and Pallas.
   
   - title: Amazon
+    title_link: https://aws.amazon.com/sagemaker/ai/
     group: Deep Science for Systems and Services
     date: 08/2025 - 10/2025
     description: Prefill-Decode disaggregated LLM inference.
